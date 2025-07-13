@@ -1,8 +1,8 @@
- 🛡️ Battle for Rome 2 (Legacy project)
+ 🛡️ Battle for Rome 2 (Legacy project from 2020)
 
 > Download zip to play, an executable is included. All images and sound effects are included there
 
-> A fully-playable 2D side-scrolling action game built in Python using Pygame — originally created in 2020 during high school, before formal CS coursework.
+> A fully-playable 2D side-scrolling action game built in Python using Pygame — originally created in 2020 during high school(sophomore year), before formal CS coursework.
 
 This is a **legacy project** showcasing my early passion for programming and game development. Though the code is messy and unoptimized, it features a fun combat system, animated bosses, sound integration, and multi-stage levels. It’s preserved here as-is to show where I started.
 
