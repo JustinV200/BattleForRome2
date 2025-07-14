@@ -6,6 +6,7 @@
 
 This is a **legacy project** showcasing my early passion for programming and game development. Though the code is messy and unoptimized, it features a fun combat system, animated bosses, sound integration, and multi-stage levels. It’s preserved here as-is to show where I started.
 
+Play it here: https://github.com/JustinV200/BattleForRome2-Legacy2020/releases/tag/V1
 ---
 
 ## 🎮 Gameplay Features
